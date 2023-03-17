@@ -1,0 +1,5 @@
+Compilation command:
+javac -cp ".;gson-2.8.9.jar" javaDesktopGUINewsAPIHeadlines.java
+
+Run Command:
+java -cp ".;gson-2.8.9.jar" javaDesktopGUINewsAPIHeadlines
